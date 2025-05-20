@@ -1,0 +1,15 @@
+Pendekatan yang Dipilih:
+
+1. Genre: Edukasi / Aksi ringan (casual game) – kemungkinan game ini memiliki misi menghindari atau melawan virus, cocok untuk edukasi kesehatan.
+
+2. Platform: Kemungkinan besar WebGL atau PC (karena terlihat dari judul: SampleScene - Web dan Unity 6.0).
+
+3. Tampilan Visual:
+    - 3D Third Person View: Pemain mengendalikan karakter dari belakang dengan kamera dinamis.
+    - UI HUD (Heads-Up Display): Terdapat skor (Score: 200) yang tampil di bagian atas layar sebagai indikator poin atau kemajuan.
+
+4. Asset Pendukung:
+    - Karakter manusia (dari Supercyan Character Pack).
+    - Objek musuh berupa virus (dengan prefab bernama virus dan virus Prefab).
+    - Tombol navigasi arah kiri dan kanan, menunjukkan penggunaan kontrol berbasis UI (bisa untuk versi mobile/web).
+
