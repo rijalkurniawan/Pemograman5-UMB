@@ -1,0 +1,22 @@
+1. Start Game:
+Game dimulai di area 3D dengan langit biru berawan (menggunakan Fantasy Skybox FREE).
+Karakter utama muncul di bagian bawah layar dengan kemampuan bergerak ke kiri dan kanan.
+
+2. Objective:
+Pemain harus menghindari atau mungkin menyentuh virus untuk mendapatkan poin (tergantung mekanik yang digunakan).
+Skor akan bertambah (terlihat Score: 200, kemungkinan bertambah saat virus dihindari atau dikumpulkan).
+
+3. Kontrol Pemain:
+Terdapat tombol panah kiri dan kanan untuk navigasi karakter.
+Bisa jadi berbasis klik/tap (untuk web/mobile), bukan keyboard.
+
+4. Spawn Musuh (Virus):
+Virus muncul di area permainan dan kemungkinan bergerak ke arah pemain atau muncul secara acak (prefab MunculinVirus menunjukkan ada script spawn).
+
+5. Win Condition / Game Over:
+Belum terlihat jelas dari gambar, namun bisa diasumsikan:
+Menang (Win) jika skor tertentu tercapai.
+Kalah (Lose) jika menyentuh virus terlalu banyak atau tidak menghindar.
+
+6. Restart & Menu:
+Tersedia skrip Restart.cs dan MenuAwal.cs yang menunjukkan adanya tombol atau sistem navigasi ke awal permainan dan mengulang game.
